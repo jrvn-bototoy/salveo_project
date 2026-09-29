@@ -1,0 +1,6 @@
+{
+  "name": "Salveo Barley Grass Official Funnel",
+  "description": "High-converting direct response sales funnel and COD order portal for Salveo Barley Grass digestive and ulcer relief supplement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
